@@ -1,0 +1,10 @@
+Comandos principais
+Git init
+Git add
+Git commit
+Git status
+Git config –list
+Git clone
+Git push origin master
+Git pull origin máster
+Git remote -v
